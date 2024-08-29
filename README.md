@@ -1,4 +1,4 @@
-# Tarea 1.
+# Tarea 1
 Este repositorio contiene 
 - Tarea 1
 - Tarea 2 
